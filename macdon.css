@@ -242,3 +242,55 @@
     }
 
     
+
+.row{
+        display: flex;
+        justify-content: center;
+        margin-top: 70px;
+        margin-right: 100px;
+        margin-left: 100px;
+    }
+    
+    .imgmy img{
+        height: 300px;
+        
+    }
+    
+    .imgmy{
+            
+            width: 50%;
+            padding-right: 20px;
+    }
+    
+    .text{
+       
+        justify-content: center;
+        padding-left: 95px;
+        width: 50%;
+       
+    }
+    .txt{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 40px;
+    }
+    .btn{
+        margin-top: 40px;
+        padding: 10px 20px;
+        background-color: orange;
+        font-size: 18px;
+        border: none;
+        border-radius: 3px;
+        height: 60px;
+        width: 200px;   
+    }
+    
+    .text2{
+        margin-top: 15px;
+        font-family: Arial;
+        font-size:20px;
+    }
+    .text3{
+        margin-top: 20px;
+        font-size: 10px;
+    }
+    
