@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+.ban{
+    margin-right: 100px;
+    margin-left: 100px;    
+
+}
 
 .navigation{
     display: flex;
@@ -171,6 +176,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     margin-right: 100px;
     margin-left: 100px;
     margin-top: 40px;
+    justify-content: center;
+    align-items: center;
 }
 
 .much{
@@ -185,8 +192,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 .par{
     display: flex;
     align-items: center;
-    justify-content: center;
-    
+    justify-content: space-evenly;
     margin-top: 30px;
     margin-right: 100px;
     margin-left: 100px;
@@ -195,9 +201,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 
 .list{
     list-style: none;
-    padding: 20px
-;
-    font-size: 20px;
+    padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 }
@@ -277,3 +281,4 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     margin-top: 50px;
     font-size: 60px;
 }
+
